@@ -1,12 +1,12 @@
-# 🚑 SwiftCare — Emergency Response System
-### Stack: React + Node.js + MySQL + Google Gemini AI (Free)
+# 🚑 SwiftCare — Emergency Transport Partner
+### Stack: React + Node.js + MySQL + GROQ AI (Free)
 
 ---
 
 ## ⚙️ Setup — Step by Step
 
-### Step 1 — Get a FREE Gemini API Key
-1. Go to 👉 https://aistudio.google.com/app/apikey
+### Step 1 — Get a FREE GROQ API Key
+1. Go to 👉 https://console.groq.com/?utm_source=chatgpt.com
 2. Sign in with your Google account
 3. Click **"Create API Key"**
 4. Copy the key (starts with `AIzaSy...`)
